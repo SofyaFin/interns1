@@ -38,6 +38,6 @@
 - [Бэкенд](Backend/backend-setup.md)
 - [Фронтенд](Frontend/frontend-setup.md)
 - [UX/UI дизайн](Design/design-setup.md)
-- [Работа с данными](Data-science/data-science-setup.md)
+- [Работа с данными](Data_science/data-science-setup.md)
 
 Успехов на стажировке!
