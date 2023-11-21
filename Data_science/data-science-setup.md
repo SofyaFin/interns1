@@ -4,7 +4,7 @@
 Для корректной работы всего, необходимо доставить несколько вещей:
 
 1) [Python 3.10](https://www.python.org/downloads/release/python-3120/) и выше (ниже не стоит)
-2) Любую среду разработки (рекомендую [PyCharm Community Edition](https://www.jetbrains.com.cn/en-us/edu-products/download/other-PCE.html)
+2) Любую среду разработки (рекомендую [PyCharm Community Edition](https://www.jetbrains.com.cn/en-us/edu-products/download/other-PCE.html))
 3) PostgreSQL ([Виндовс](https://www.postgresql.org/download/windows/), [Мак](https://www.postgresql.org/download/macosx/), [Линукс](https://ubuntu.com/server/docs/databases-postgresql); версия не важна, но сильно низкую не стоит)
 4) Github Desktop (необязательно, но удобная штука)
 
