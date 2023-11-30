@@ -1,1 +1,2 @@
-# И тут кстати тоже надо что-то написать
+from .database import Apples
+__all__ = ["Apples"]
