@@ -8,7 +8,7 @@ from pydantic_settings import BaseSettings
 class Settings(BaseSettings):
     """Application settings"""
     # Проверь ссылку!
-    DB_DSN: PostgresDsn = "postgresql://postgres:232323@localhost:5432/postgres"
+    DB_DSN: PostgresDsn = "postgresql://postgres:qwerty@localhost:5432/postgres"
     ROOT_PATH: str = "/" + os.getenv("APP_NAME", "")
     model_config = ConfigDict(case_sensitive=True, env_file=".env", extra="ignore")
 
